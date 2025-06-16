@@ -9,4 +9,27 @@ Currently, two official plugins are available:
 
 ## Expanding the ESLint configuration
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+# 🚀 Guía para Correr una Aplicación React
+
+Esta guía te ayudará a configurar tu entorno y ejecutar una aplicación React desde cero.
+
+---
+
+## 🧰 1. Instalar Node.js
+
+React requiere Node.js y npm (Node Package Manager). Descárgalo desde el sitio oficial:
+
+🔗 https://nodejs.org/
+
+Recomendado: Instalar la **versión LTS** (Long Term Support).
+
+Verifica la instalación, instala dependencias y ejecuta en modo dev:
+
+```bash
+node -v
+npm -v
+
+npm install
+npm run dev
+
+```
